@@ -1,1 +1,1 @@
-# Project Polina
+# Systemd — создание unit-файла
